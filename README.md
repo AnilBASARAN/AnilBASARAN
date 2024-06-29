@@ -18,7 +18,7 @@ Full Stack Web Developer olarak çeşitli teknolojiler üzerinde çalışıyorum
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
-### Patika Full Stack Bootcampinde Tamamladığım Projelerimden birkaçı ### 
+### Tamamladığım Projelerimden birkaçı ### 
 
 
  ########  API Veterinary Management System  ########
