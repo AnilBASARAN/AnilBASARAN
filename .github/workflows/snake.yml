@@ -27,6 +27,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
+      - name: Set up Git identity
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+
       - name: Create output branch if it doesn't exist
         run: |
           git checkout --orphan output || git checkout -b output
