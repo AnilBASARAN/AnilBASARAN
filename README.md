@@ -60,4 +60,5 @@ Bu proje, soru-cevap uygulaması geliştirilmesini amaçlamaktadır.
 ### Bana Ulaşın:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anılbaşaran/)
 
+<img src="https://raw.githubusercontent.com/AnilBASARAN/AnilBASARAN/output/snake.svg" alt="Snake animation" />
 
