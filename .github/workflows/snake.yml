@@ -34,8 +34,12 @@ jobs:
 
       - name: Create output branch if it doesn't exist
         run: |
-          git checkout --orphan output || git checkout -b output
-          git reset --hard
+          git fetch origin output || git checkout -b output
+          git checkout output
+
+      - name: Pull latest changes from remote output branch
+        run: |
+          git pull origin output --rebase
 
       - name: Commit and push snake.svg to the output branch
         run: |
