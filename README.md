@@ -1,11 +1,9 @@
 
-## Hi there 👋
+Hello, I'm Anil Basaran
 
-## Merhaba, Ben Anil Basaran
+As a Full Stack Web Developer, I work with various technologies. Below, you can find information about some of the technologies I have learned and the projects I have developed.
 
-Full Stack Web Developer olarak çeşitli teknolojiler üzerinde çalışıyorum. Aşağıda, öğrenmiş olduğum bazı teknolojiler ve geliştirdiğim projeler hakkında bilgiler bulabilirsiniz.
-
-### Kullandığım Teknolojiler
+Technologies I Use
 
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
@@ -18,46 +16,43 @@ Full Stack Web Developer olarak çeşitli teknolojiler üzerinde çalışıyorum
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
-### Tamamladığım Projelerimden birkaçı ### 
+### Some of My Completed Projects ### 
 
 
  ########  API Veterinary Management System  ########
 
 
-Bu proje, veterinerlik yönetim sistemleri için API geliştirilmesini amaçlamaktadır.
+This project aims to develop an API for veterinary management systems.
+Technologies Used: Java, Spring Boot, PostgreSQL, Maven, Docker
 
-- **Kullandığım Teknolojiler:** Java, Spring Boot, PostgreSQL, Maven, Docker
-- **[Projeye Git](https://github.com/AnilBASARAN/patika-hafta13-veteriner-projesi)**
+- **[Go to the project](https://github.com/AnilBASARAN/patika-hafta13-veteriner-projesi)**
 
 ########  Hotel Management System  ########
 
 
-Bu proje, otel yönetim sistemleri için geliştirilmiştir.
-
-- **Kullandığım Teknolojiler:** Java, Spring Boot, PostgreSQL, Maven
-- **[Projeye Git](https://github.com/AnilBASARAN/patika-hafta8-turizm-bitirme-odevi)**
+This project was developed for hotel management systems.
+Technologies Used: Java, Spring Boot, PostgreSQL, Maven
+- **[Go to the project](https://github.com/AnilBASARAN/patika-hafta8-turizm-bitirme-odevi)**
 
  ########  To-Do Application  ########
 
  
 
-Bu proje, yapılacaklar listesi uygulaması geliştirilmesini amaçlamaktadır.
-
-- **Kullandığım Teknolojiler:** JavaScript, React
-- **[Projeye Git](https://github.com/AnilBASARAN/patika-todolist)**
+This project aims to develop a to-do list application.
+Technologies Used: JavaScript, React
+- **[Go to the project](https://github.com/AnilBASARAN/patika-todolist)**
 
 ######## Question App ########
 
 
-Bu proje, soru-cevap uygulaması geliştirilmesini amaçlamaktadır.
-
-- **Kullandığım Teknolojiler:** Java, Spring Boot, PostgreSQL
-- **[Projeye Git](https://github.com/AnilBASARAN/patika-react-questionapp)**
-
+This project aims to develop a question-and-answer application.
+Technologies Used: Java, Spring Boot, PostgreSQL
+- **[Go to the project](https://github.com/AnilBASARAN/patika-react-questionapp)**
 
 
 
-### Bana Ulaşın:
+
+### My Contact info:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anılbaşaran/)
 
 ![snake](https://raw.githubusercontent.com/AnilBASARAN/AnilBASARAN/output/dist/snake.svg)
